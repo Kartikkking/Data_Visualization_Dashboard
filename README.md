@@ -5,13 +5,10 @@ Data_Visualization_Dashboard: ✅ Backend (Flask + MongoDB) ✅ Frontend (React.
 
 ### Data_Visualization_Dashboard
 
-**│── backend/
-│   │── app.py
-│   │── import_json.py
-│   │── requirements.txt
-│── frontend/
-│   │── src/
-│   │   │── App.js
-│   │── package.json
-│── jsondata.json
-│── README.md**
+#### backend(app.py, import_json.py, requirements.txt)
+
+#### frontend(src, App.js, package.json)
+
+####  jsondata.json
+
+#### README.md
